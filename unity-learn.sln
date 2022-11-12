@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity 2D", "Unity 2D\Unity 2D.csproj", "{0BA22BE8-E996-4608-A354-AC149F9C507D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA22BE8-E996-4608-A354-AC149F9C507D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA22BE8-E996-4608-A354-AC149F9C507D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA22BE8-E996-4608-A354-AC149F9C507D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA22BE8-E996-4608-A354-AC149F9C507D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D2A150-8D53-4984-BD0B-30655E5B3B54}
+	EndGlobalSection
+EndGlobal
